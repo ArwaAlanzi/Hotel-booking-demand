@@ -10,7 +10,7 @@ This data set contains booking information for a city hotel and a resort hotel, 
 
 All personally identifying information has been removed from the data.
 
-Check ./About-the-data.md to know more about the data 
+Check (About-the-data.md) to know more about the data 
 
 Topics covered and questions to answer from the data:
 
