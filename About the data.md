@@ -1,10 +1,11 @@
+# About the data
 The file contains the different attributes of customers' reservation details. The detailed data dictionary is given below
 
-id: unique identifier of each booking
+id: the unique identifier of each booking
 no_of_adults: Number of adults
 no_of_children: Number of Children
 no_of_weekend_nights: Number of weekend nights (Saturday or Sunday) the guest stayed or booked to stay at the hotel
-no_of_week_nights: Number of week nights (Monday to Friday) the guest stayed or booked to stay at the hotel
+no_of_week_nights: Number of weeknights (Monday to Friday) the guest stayed or booked to stay at the hotel
 type_of_meal_plan: Type of meal plan booked by the customer:
 required_car_parking_space: Does the customer require a car parking space? (0 - No, 1- Yes)
 room_type_reserved: Type of room reserved by the customer. The values are ciphered (encoded) by INN Hotels.
